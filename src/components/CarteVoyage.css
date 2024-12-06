@@ -1,0 +1,29 @@
+.carte_image{
+    width: 300px;
+    aspect-ratio: 2/1;
+}
+.carte_cont{
+    width: 350px;
+    padding: 0.5rem;
+    margin: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: baseline;
+    border-radius: 0.6em;
+    box-shadow: -2px 1px 5px 1px rgba(0, 0, 0,0.49);
+}
+.carte_voy{
+    font-weight: 500;
+    line-height: 20pt;
+}
+.boutton{
+    padding: 1em 2em;
+    background-color: rgb(241, 241, 241) ;
+    color: black;
+    font-weight: bold;
+    outline: none;
+    border: none;
+    border-radius: 0.7em;
+    align-self: flex-end;
+}

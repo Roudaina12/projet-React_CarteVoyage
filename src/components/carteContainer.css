@@ -1,0 +1,5 @@
+.carte_container2{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 2;
+}
